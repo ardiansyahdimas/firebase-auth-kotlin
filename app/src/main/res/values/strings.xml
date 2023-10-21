@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">firebase-auth</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="plant_store">Plant Community</string>
+    <string name="email">Email</string>
+    <string name="masukkan_email_anda">Enter Your Email</string>
+    <string name="email_tidak_valid">Email not valid!</string>
+    <string name="password">Password</string>
+    <string name="masukkan_password_anda">Enter Your Password</string>
+    <string name="invalid_password">Password should be at least 8 characters long and contain at least one digit, one lowercase letter, and one uppercase letter</string>
+    <string name="password_not_match">Password and confirm password do not match</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="title_forgot_password">Forgot Password</string>
+    <string name="dont_have_an_account">Dont\'t have an account?<b><a href="#">Sign up</a></b></string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="invalid_fullname">Full name should be between 3 and 50 characters.</string>
+    <string name="login">Login</string>
+    <string name="info_regis"><b><a href="#">By signing you agree</a></b> to our Team of use \nand privacy notice</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="create_your_new_account">Create your new account</string>
+    <string name="info_forgot_password">Don\'t worry! It happens.Please enter the address associated with your account.</string>
+    <string name="submit">Submit</string>
+    <string name="info_sucess">%s successful. %s</string>
+    <string name="info_failed">%s failed. %s</string>
+    <string name="title_welcome">Let\'s find your fellow plant enthusiasts.</string>
+    <string name="search_by_name">Search by name…</string>
+    <string name="check_email">Please check your email for confirmation.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="please_check_your_email">Please check your email!</string>
+</resources>
