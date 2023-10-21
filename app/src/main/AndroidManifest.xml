@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Firebaseauth"
         android:usesCleartextTraffic="true"
-        tools:targetApi="31">
+        tools:targetApi="34">
         <activity
             android:name=".ui.screen.home.HomeActivity"
             android:screenOrientation="portrait"
